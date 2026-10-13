@@ -42,7 +42,6 @@ Belum tentu semua tools yang dicoba dikuasai, karena fokus i lebih ke **relevans
 | **R_HMT Portfolio** | Personal digital archive & interactive website |
 | **Analisis Tanaman** | Eksperimen analisis tanaman berbasis gambar |
 | **Anime Quote** | Project web bertema anime |
-| **Dewa Store** | Telegram bot & transaksi digital |
 | **Pixcraft** | Eksplorasi tools pengolahan gambar berbasis web |
 
 <sub>Sebagian project masih aktif, sebagian lainnya jadi arsip eksperimen.</sub>
